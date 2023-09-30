@@ -1,0 +1,83 @@
+{"SUBSCRIPTIONS":[
+    {
+       "name": "BASIC SURE TIPS", "amount": "Ksh 99" , "odds":"8 SURE ODDS DAILY"
+    },
+   
+    {
+       "name": "STANDARD SURE TIPS", "amount": "Ksh 100" , "odds":"16 SURE ODDS DAILY"
+    },
+    
+    {
+        "name": "MEGA JACKPOT SURE TIPS", "amount": "Ksh 150" , "odds":"12 to 17 CORRECT GAMES"
+     },
+     
+     {
+        "name": "PREMIUM SURE TIPS", "amount": "Ksh 250" , "odds":"32 SURE ODDS DAILY"
+     }
+],
+
+"BASIC SURE TIPS":[
+   
+        {
+            "fixture": "Malmö FF – Union Berlin",
+            "prediction": "HOME WIN"
+        },
+        
+        {
+            "fixture": "Sturm Graz – Lazio",
+            "prediction": "AWAY WIN"
+        },
+        
+     {
+            "fixture": "Arsenal – Bodø/Glimt",
+            "prediction": "Home win, Over 1.5"
+        }
+        
+        ],
+         "STANDARD SURE TIPS":[
+         {
+            "fixture": "Malmö FF – Union Berlin",
+            "prediction": "HOME WIN"
+        },
+        
+        {
+            "fixture": "Sturm Graz – Lazio",
+            "prediction": "AWAY WIN"
+        },
+        
+     {
+            "fixture": "Arsenal – Bodø/Glimt",
+            "prediction": "Home win, Over 1.5"
+        },
+        {
+            "fixture": "AZ – Apollon Limassol",
+            "prediction": "Over 1.5"
+        }
+ ],
+ "PREMIUM PREDICTION RESULTS":[
+         {
+            "fixture": "Malmö FF – Union Berlin",
+            "prediction": "HOME WIN"
+        },
+        
+        {
+            "fixture": "Sturm Graz – Lazio",
+            "prediction": "AWAY WIN"
+        },
+        
+     {
+            "fixture": "Arsenal – Bodø/Glimt",
+            "prediction": "Home win, Over 1.5"
+        },
+        {
+            "fixture": "AZ – Apollon Limassol",
+            "prediction": "Over 1.5"
+         }
+],
+ "MEGA JACKPOT SURE PREDICTIONS":[
+         {
+            "GAMES": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+            "PREDICTIONS": "1,X,2,2,1,X,X,1,2,2,X,1,X,2,2,1,X"
+        
+
+   }
